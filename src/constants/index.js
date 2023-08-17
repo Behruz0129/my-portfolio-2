@@ -40,7 +40,7 @@ export const statLinks = [
   {
     id: "resume",
     icon: iconResume,
-    link: "https://drive.google.com/file/d/1MWc4QbQBELZtUBNiSeCu7kkmu8a5K3U3/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1EzgwtEKfPvwWCNo3ygZb0SGFsrg2wwl9/view?usp=drive_link",
   },
   {
     id: "instagram",
