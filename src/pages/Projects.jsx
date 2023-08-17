@@ -39,7 +39,7 @@ const Projects = () => {
                   </div>
                   <div className="buttons flex gap-3">
                     <a href={project.link} target="_blank">
-                      <button className="bg-blackish transition-all hover:bg-primaryColor text-[white] border-[2px] px-6 py-4 sm:px-8 text-[14px] sm:text-[18px] font-semibold">
+                      <button className="bg-blackish transition-all hover:bg-primaryColor text-[white] border-[2px] border-[blackish] px-6 py-4 sm:px-8 text-[14px] sm:text-[18px] font-semibold">
                         Demo
                       </button>
                     </a>
