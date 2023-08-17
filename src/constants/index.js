@@ -19,6 +19,10 @@ import {
   projectImage8,
   projectImage9,
   projectImage10,
+  projectImage11,
+  projectImage12,
+  projectImage13,
+  projectImage14,
 } from "../assets";
 
 export const navLinks = [
@@ -105,6 +109,38 @@ export const skillsData = [
 ];
 
 export const projectsData = [
+  {
+    image: projectImage14,
+    title: "Naruto Rolodex",
+    tech: ["ReactJS", "CSS"],
+    link: "https://naruto-rolodex.netlify.app/",
+    code: "https://github.com/Behruz0129/naruto-rolodex",
+    id: 14,
+  },
+  {
+    image: projectImage13,
+    title: "Shatranj(with 2 user)",
+    tech: ["HTML", "CSS", "JavaScript"],
+    link: "https://js-shatranj.netlify.app/",
+    code: "https://github.com/Behruz0129/js-pig-game",
+    id: 13,
+  },
+  {
+    image: projectImage12,
+    title: "Sonni Top",
+    tech: ["HTML", "CSS", "JavaScript"],
+    link: "https://js-sonni-top.netlify.app/",
+    code: "https://github.com/Behruz0129/js-sonni-top",
+    id: 12,
+  },
+  {
+    image: projectImage11,
+    title: "Custom Kalkulyator",
+    tech: ["HTML", "CSS", "JavaScript"],
+    link: "https://js-kalkulyator.netlify.app/",
+    code: "https://github.com/Behruz0129/js-kalkulyator",
+    id: 11,
+  },
   {
     image: projectImage10,
     title: "Rayhon AI",

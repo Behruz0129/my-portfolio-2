@@ -15,6 +15,10 @@ import iconGitGithub from "./skillIcons/skill-icon-git-github.svg";
 import iconRedux from "./skillIcons/skill-icon-redux.svg";
 import iconFigmaVScode from "./skillIcons/skill-icon-figma-vscode.svg";
 // projectImages
+import projectImage14 from "./projectImages/naruto-rolodex.png";
+import projectImage13 from "./projectImages/js-shatranj.png";
+import projectImage12 from "./projectImages/js-sonni-top.png";
+import projectImage11 from "./projectImages/js-kalkulyator.png";
 import projectImage10 from "./projectImages/rayhon-ai.png";
 import projectImage9 from "./projectImages/behruz-music.png";
 import projectImage8 from "./projectImages/animmix-studio.png";
@@ -51,4 +55,8 @@ export {
   projectImage8,
   projectImage9,
   projectImage10,
+  projectImage11,
+  projectImage12,
+  projectImage13,
+  projectImage14,
 };
