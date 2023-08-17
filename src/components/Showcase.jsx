@@ -27,7 +27,7 @@ const Showcase = () => {
             href="https://drive.google.com/file/d/1MWc4QbQBELZtUBNiSeCu7kkmu8a5K3U3/view?usp=drive_link"
             target="_blank"
           >
-            <button className={`bg-blackish text-[white] btn ${styles.btn}`}>
+            <button className={`bg-blackish text-[white] border-[2px] btn ${styles.btn}`}>
               Resume
             </button>
           </a>
