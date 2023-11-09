@@ -24,7 +24,7 @@ const Showcase = () => {
         </p>
         <div className="flex gap-5">
           <a
-            href="https://drive.google.com/file/d/1MWc4QbQBELZtUBNiSeCu7kkmu8a5K3U3/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1EzgwtEKfPvwWCNo3ygZb0SGFsrg2wwl9/view"
             target="_blank"
           >
             <button className={`bg-blackish text-[white] border-[2px] border-blackish btn ${styles.btn}`}>
